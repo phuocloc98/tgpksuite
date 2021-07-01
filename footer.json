@@ -1,0 +1,71 @@
+[
+    {
+        "id": "2021",
+        "title": "Địa chỉ trụ sở chính",
+        "content": [
+            {
+                "id": "1",
+                "title": "Địa chỉ",
+                "content": "8th Floor, Charmington Building, 181 Cao Thang, Ward 12, District 10, HCMC"
+            },
+            {
+                "id": "2",
+                "title": "Email",
+                "content": "info@mangoads.vn"
+            },
+            {
+                "id": "1",
+                "title": "Hotline",
+                "content": "+84 28 6680 5450"
+            }
+        ]
+
+    },
+    {
+        "id": "2022",
+        "title": "Về chúng tôi",
+        "content": [
+            {
+                "id": "1",
+                "title": "Giới thiệu",
+                "request_path": "/about"
+            },
+            {
+                "id": "2",
+                "title": "Phân phối",
+                "request_path": "/distribution"
+            }
+        ]
+    },
+    {
+        "id": "2023",
+        "title": "Chính sách",
+        "content": [
+            {
+                "id": "1",
+                "title": "Bảo mật thông tin cá nhân",
+                "request_path": "/"
+            },
+            {
+                "id": "2",
+                "title": "Bảo mật thanh toán",
+                "request_path": "/"
+            },
+            {
+                "id": "3",
+                "title": "Chính sách giao hàng",
+                "request_path": "/"
+            },
+            {
+                "id": "4",
+                "title": "Chính sách bảo hành đổi trả",
+                "request_path": "/"
+            },
+            {
+                "id": "5",
+                "title": "Chính sách thanh toán",
+                "request_path": "/"
+            }
+        ]
+    }
+]
